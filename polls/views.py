@@ -7,6 +7,7 @@ from django.urls import reverse
 from django.views import generic
 
 # Create your views here.
+# Jimmy Phasouk
 
 # def index(request):
 #     latest_question_list = Question.objects.order_by('-pub_date')[:5]
